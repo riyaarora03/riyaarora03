@@ -74,8 +74,9 @@
   <br/>
 </a>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=riyaarora03&theme=tokyonight" alt="mystreak"/>
+
 
 ![Riya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=riyaarora03&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-![](https://github.com/riyaarora03/github-trends/assets/16708871/bf9406a4-6a49-4dbf-8f60-af221bb84bd6)
 
