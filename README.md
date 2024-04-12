@@ -69,21 +69,6 @@
 
 <br/>
 
-## Top Open Source -
-[![SADHANA_minor](https://github-readme-stats.vercel.app/api/pin/?username=riyaarora03&repo=SADHANA_minor&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/riyaarora03/SADHANA_minor)
-[![Weather-Monitoring-System](https://github-readme-stats.vercel.app/api/pin/?username=riyaarora03&repo=Weather-Monitoring-System&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/riyaarora03/Weather-Monitoring-System)
-[![tetris](https://github-readme-stats.vercel.app/api/pin/?username=riyaarora03&repo=tetris&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/riyaarora03/tetris)
-[![Knight-s-Tour](https://github-readme-stats.vercel.app/api/pin/?username=riyaarora03&repo=Knight-s-Tour&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/riyaarora03/Knight-s-Tour)
-
-
-
-
-
-
-
-<p align="left">
-  <a href="https://github.com/riyaarora03?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
 
 <br/>
 <hr/>
@@ -96,8 +81,6 @@
   <br/>
 </a>
 
-## Github All Stats -
-<img src="https://myreadme.vercel.app/api/embed/riyaarora03?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 ![Riya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=riyaarora03&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
