@@ -68,8 +68,6 @@
 <br/>
 
 
-![](https://github.com/avgupta456/github-trends/assets/16708871/bf9406a4-6a49-4dbf-8f60-af221bb84bd6)
-
 
 <a> 
   <a href="https://github.com/riyaarora03"><img alt="Riya's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=riyaarora03&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
@@ -78,4 +76,6 @@
 
 
 ![Riya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=riyaarora03&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+![](https://github.com/riyaarora03/github-trends/assets/16708871/bf9406a4-6a49-4dbf-8f60-af221bb84bd6)
 
