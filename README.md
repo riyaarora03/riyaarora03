@@ -9,12 +9,11 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7133F&background=111110EF&center=true&random=false&width=500&lines=Welcome+to+my+profile!;I+am+a+Front-end+Developer+from+India" alt="Typing SVG" /></a>
-
+    <a href="https://www.linkedin.com/in/riya-arora-1389a622b/">「 Google Me 」</a>
     <br>
-    <a href="https://www.linkedin.com/in/riya-arora-1389a622b/">Google Me</a>
+    「 I am a Front End Developer from <b>India</b> 」
     <br>
-    
+    <br>
   </samp>
 </p>
 
