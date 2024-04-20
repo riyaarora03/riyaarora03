@@ -24,6 +24,10 @@
  <a href="https://www.linkedin.com/in/riya-arora-1389a622b/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a> 
+ <a href="https://www.instagram.com/riyaa_a.03/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-1E0342?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
 </p>
 <br />
 
