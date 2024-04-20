@@ -8,7 +8,7 @@
 
 
 <p align="center"> 
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7133F&background=111110EF&center=true&random=false&width=500&lines=Welcome+to+my+profile!;I+am+a+Front-end+Developer+from+India" alt="Typing SVG" /></a><br>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F7133F&background=FFFFFF&center=true&random=false&width=600&lines=Welcome+to+my+profile!;I+am+a+Front-end+Developer+from+India" alt="Typing SVG" /></a><br>
         <br>
   <samp>
     <a href="https://www.linkedin.com/in/riya-arora-1389a622b/">「 Google Me 」</a>
@@ -28,7 +28,12 @@
 <br />
 
 <!-- About Section -->
- # About me
+<samp>
+<h1>About me</h1>
+</samp>
+<a href="" target="_blank" title="Ms. Riya Arora's Dev Card">
+    <img style="border-radius: 100px;" align="right" src="https://user-images.githubusercontent.com/47440165/184950012-4a36f782-f7e9-44cb-affc-cc82d67561fb.gif" width="400" height="300" alt="Ms. Riya Arora's Dev Card"/>
+</a>
  
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
@@ -76,6 +81,11 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=riyaarora03&theme=tokyonight" alt="mystreak"/>
 
 
+
+
 ![Riya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=riyaarora03&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
+---
+
+_Thanks for taking a look at my profile! Star ⭐ this repo if you liked it!_
 
