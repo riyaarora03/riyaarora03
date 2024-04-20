@@ -40,7 +40,7 @@
   
  ✌️ &emsp; A prefinal year student at Jaypee Institute Of Information Technology, Noida  <br/><br/>
  ❤️ &emsp; An enthusiastic learner and continuously working on my coding skills in Python. Honing my skills in programming, algorithms, and data structures, while actively practicing HTML, CSS, React, and Node.js to build a solid foundation in web development. I take great care in the experience, architecture, and code quality of the things I build.<br/><br/>
- 💼 With a strong background in media and communication, I bring a unique blend of technical skills and creative flair to the table. My passion for technology extends beyondmconventional boundaries, driving me to explore diverse avenues.  <br>   
+ 💼 With a strong background in media and communication, I bring a unique blend of technical skills and creative flair to the table. My passion for technology extends beyond conventional boundaries, driving me to explore diverse avenues.  <br>   
  📧 &emsp; Reach me anytime: riyaarora0307@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/issues)
 
