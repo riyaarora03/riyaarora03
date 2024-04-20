@@ -14,7 +14,7 @@
     <br>
     <a href="https://www.linkedin.com/in/riya-arora-1389a622b/">「 Google Me 」</a>
     
-    <br>
+    
   </samp>
 </p>
 
