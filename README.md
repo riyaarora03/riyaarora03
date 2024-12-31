@@ -47,6 +47,8 @@
  💼 With a strong background in media and communication, I bring a unique blend of technical skills and creative flair to the table. My passion for technology extends beyond conventional boundaries, driving me to explore diverse avenues.  <br>   
  📧 &emsp; Reach me anytime: riyaarora0307@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/issues)
+ 📁 &emsp; Portfolio: https://riyaarora03.github.io/
+
 
 </p>
 
